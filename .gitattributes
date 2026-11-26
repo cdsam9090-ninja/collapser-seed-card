@@ -1,0 +1,7 @@
+# Normalize line endings for all files that Git considers text files.
+* text=auto eol=lf
+
+# House files that are not part of the asset download.
+/SUBMISSION.md export-ignore
+/REPORT.md export-ignore
+/evidence-seed-card-live.png export-ignore
